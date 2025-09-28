@@ -10,4 +10,4 @@ gem 'guard-nanoc', '~> 1.0.0'
 gem 'terminal-notifier-guard', '~> 1.5.3'
 
 gem 'listen', '~> 1.3.1', require: false
-gem 'adsf', '~> 1.1.1', require: false
+gem 'adsf', '~> 1.2.0', require: false
